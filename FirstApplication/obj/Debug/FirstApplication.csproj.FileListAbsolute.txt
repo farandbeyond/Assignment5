@@ -1,0 +1,432 @@
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\csc.exe
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\csc.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\csc.rsp
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\csi.exe
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\csi.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\csi.rsp
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.AppContext.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Console.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.IO.Compression.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.IO.Pipes.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Security.Claims.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Threading.Thread.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.ValueTuple.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\vbc.exe
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\vbc.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\vbc.rsp
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\VBCSCompiler.exe
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\FirstApplication.dll.config
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\FirstApplication.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\FirstApplication.pdb
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Antlr3.Runtime.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\EntityFramework.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Newtonsoft.Json.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Helpers.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Mvc.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Optimization.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Razor.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.WebPages.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\WebGrease.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Antlr3.Runtime.pdb
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Newtonsoft.Json.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Helpers.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Mvc.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Optimization.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.Razor.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.WebPages.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\EntityFramework.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.dll
+D:\Teaching\Georgian College\COMP2007\2017\COMP2007-1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\csc.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\csc.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\csc.rsp
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\csi.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\csi.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\csi.rsp
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.AppContext.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Console.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.IO.Compression.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.IO.Pipes.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Security.Claims.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Threading.Thread.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.ValueTuple.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\vbc.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\vbc.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\vbc.rsp
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\VBCSCompiler.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\FirstApplication.dll.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\FirstApplication.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\FirstApplication.pdb
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Antlr3.Runtime.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\EntityFramework.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Newtonsoft.Json.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Helpers.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Mvc.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Optimization.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Razor.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.WebPages.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\WebGrease.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Antlr3.Runtime.pdb
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Newtonsoft.Json.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Helpers.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Mvc.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Optimization.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.Razor.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.WebPages.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\EntityFramework.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\obj\Debug\FirstApplication.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\csc.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\csc.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\csc.rsp
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\csi.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\csi.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\csi.rsp
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.AppContext.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Console.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.IO.Compression.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.IO.Pipes.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Security.Claims.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Threading.Thread.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.ValueTuple.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\vbc.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\vbc.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\vbc.rsp
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\VBCSCompiler.exe
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\FirstApplication.dll.config
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\FirstApplication.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\FirstApplication.pdb
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Antlr3.Runtime.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\EntityFramework.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Newtonsoft.Json.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Owin.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Helpers.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Mvc.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Optimization.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Razor.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.WebPages.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\WebGrease.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Antlr3.Runtime.pdb
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Newtonsoft.Json.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Helpers.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Mvc.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Optimization.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.Razor.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.WebPages.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\EntityFramework.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\obj\Debug\FirstApplication.dll
+D:\Teaching\Georgian College\COMP2007\2017\Assignments\A4\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\FirstApplication.dll.config
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\FirstApplication.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\FirstApplication.pdb
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Antlr3.Runtime.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\EntityFramework.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Owin.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Helpers.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Mvc.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Optimization.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Razor.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.WebPages.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\WebGrease.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Antlr3.Runtime.pdb
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Helpers.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Mvc.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Optimization.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.Razor.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.WebPages.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\EntityFramework.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\obj\Debug\FirstApplication.dll
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\obj\Debug\FirstApplication.Migrations.InitialCreate.resources
+C:\Users\chris\Desktop\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.GenerateResource.Cache
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\FirstApplication.dll.config
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\FirstApplication.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\FirstApplication.pdb
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Antlr3.Runtime.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\EntityFramework.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Newtonsoft.Json.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Owin.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Helpers.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Mvc.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Optimization.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Razor.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.WebPages.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\WebGrease.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Newtonsoft.Json.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Helpers.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Mvc.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Optimization.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.Razor.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.WebPages.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\EntityFramework.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.dll
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.Migrations.Identity.InitialCreateIdentity.resources
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.csproj.GenerateResource.Cache
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.Migrations.DataContext.InitialCreateDataContext.resources
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.Migrations.DataContext.AddDefaultValues.resources
+C:\Users\Connor\Desktop\Eclipse_C++_Asp\ASPnet\a5\FirstApplication\obj\Debug\FirstApplication.Migrations.DataContext.AddDefaultGenres.resources
